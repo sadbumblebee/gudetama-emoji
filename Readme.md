@@ -1,5 +1,5 @@
 # Gudetama Emoji
-Gudetama emoji for slack.
+Gudetama emoji for Slack.
 ## Installing
 * Clone this repo
 * Use a [bulk uploader](https://chrome.google.com/webstore/detail/slack-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej?hl=en)
